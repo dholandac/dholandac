@@ -10,7 +10,7 @@
 
 - 📫 Caso queira entrar em contato, meu e-mail é **daniel.holanda.campos@gmail.com**
 
-- 📄 Projeto que estou trabalhando recentemente: https://github.com/dholandac/randomword
+- 📄 Projeto que estou trabalhando recentemente: https://github.com/dholandac/buscarcep
 
 <h3 align="left">LinkedIn</h3>
 <p align="left">
