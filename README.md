@@ -4,7 +4,7 @@
 
 <p><br/></p>
 
-- 🔭 Atualmente estou estudando C#, HTML e CSS
+- 🔭 Atualmente estou estudando React.js, Node.js e Python
 
 - 📋 Meus projetos podem ser encontrados aqui mesmo no github
 
