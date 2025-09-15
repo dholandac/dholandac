@@ -4,7 +4,7 @@
 
 <p><br/></p>
 
-- 🔭 Atualmente estou estudando Java
+- 🔭 Atualmente estou estudando Django
 
 - 📋 Meus projetos podem ser encontrados aqui mesmo no github
 
