@@ -1,4 +1,4 @@
-<h1 align="center">Oi, meu nome é Daniel Holanda</h1>
+<h1 align="center">Olá, meu nome é Daniel Holanda</h1>
 <h3 align="center">💻 Sou estudante de Ciência da Computação 💻</h3>
 
 
